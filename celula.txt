@@ -32,3 +32,30 @@ Lisosomas: Descomponen desechos celulares y bacterias.
 Vacuolas: Almacenan agua, nutrientes y desechos (más grandes en células vegetales). 
 Centríolos: Participan en la división celular (en células animales). 
 Cloroplastos: Orgánulos presentes en células vegetales, donde ocurre la fotosíntesis. 
+
+TIPOS DE CELULAS
+Existen dos tipos principales de células: 
+
+Células Procariotas:
+Estructura: Son células más pequeñas y simples, sin un núcleo definido. 
+El material genético (ADN) se encuentra disperso en el citoplasma.
+Ejemplos: Bacterias y arqueas son organismos procariotas. 
+
+Células Eucariotas:
+Estructura:
+Son células más complejas, con un núcleo definido que alberga el material genético (ADN). 
+Orgánulos:
+Contienen varios orgánulos membranosos, como mitocondrias, retículo endoplasmático, aparato de Golgi, etc., 
+cada uno con funciones específicas. 
+Ejemplos:
+Animales, plantas, hongos y protistas están compuestos por células eucariotas. 
+Tipos de Células Eucariotas:
+Células Animales:
+Carecen de pared celular, poseen centriolos y generalmente tienen vacuolas más pequeñas. 
+Células Vegetales:
+Tienen una pared celular rígida, cloroplastos para la fotosíntesis, y una gran vacuola central. 
+Otros tipos:
+Hongos y protistas también tienen células eucariotas, con características particulares. 
+Además de esta clasificación general, existen numerosos tipos de células dentro de cada categoría, 
+cada uno con funciones especializadas en el organismo. 
+Por ejemplo, dentro de las células animales, encontramos células sanguíneas, musculares, nerviosas, entre otras. 
