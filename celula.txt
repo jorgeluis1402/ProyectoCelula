@@ -1,4 +1,4 @@
-¿Qué es una célula?
+LA CELULA
 La célula es la unidad estructural y funcional de todos los organismos vivos. 
 Constituye la forma más pequeña y simple de organización biológica, es decir, la estructura ordenada y viviente más pequeña que se conoce. 
 Son ejemplos de células los espermatozoides y las neuronas.
@@ -14,3 +14,21 @@ Este es el caso del óvulo humano, que mide 100 µm y tiene un tamaño similar a
 El descubrimiento de la célula se considera el paso fundacional del estudio moderno de la vida (biología).
 Dado que permitió comprender la enorme complejidad del cuerpo de los seres vivos y permitió el surgimiento de numerosas ciencias y disciplinas posteriores.
 
+PARTES DE LA CELULA
+Membrana Celular:
+Es la capa externa que delimita la célula y regula el paso de sustancias hacia adentro y afuera. 
+Citoplasma:
+Es el material gelatinoso dentro de la membrana, donde se encuentran los orgánulos y se llevan a cabo diversas reacciones químicas. 
+Núcleo:
+Es el centro de control de la célula, contiene el material genético (ADN) y regula las funciones celulares. 
+Ribosomas:
+Son los encargados de la síntesis de proteínas, siguiendo las instrucciones del ADN. 
+Orgánulos:
+Son estructuras especializadas dentro del citoplasma, como:
+Mitocondrias: Generan energía para la célula. 
+Retículo Endoplasmático: Transporta y procesa moléculas. 
+Aparato de Golgi: Empaqueta y distribuye moléculas. 
+Lisosomas: Descomponen desechos celulares y bacterias. 
+Vacuolas: Almacenan agua, nutrientes y desechos (más grandes en células vegetales). 
+Centríolos: Participan en la división celular (en células animales). 
+Cloroplastos: Orgánulos presentes en células vegetales, donde ocurre la fotosíntesis. 
